@@ -13,7 +13,7 @@ hero:
       link: /IMU/book-introduction.md
     - theme: alt
       text: 源码
-      link: https://github.com/King0420/IMU_Course
+      link: https://github.com/King0420/IDK-IMU
 features:
   - icon: 🌈
     title: 培养方案
