@@ -22,12 +22,12 @@ export default {
     sidebar,
 	
 	editLink: {
-      pattern: 'https://github.com/xinlei3166/vitepress-demo/edit/master/docs/:path',
+      pattern: 'https://github.com/King0420/IDK-IMU/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/xinlei3166/vitepress-demo' }
+      { icon: 'github', link: 'https://github.com/King0420/IMU_Course' }
     ],
   }
 }
